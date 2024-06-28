@@ -1,0 +1,3 @@
+MT1002 Operation Research
+CLO1 Transportation Model
+CLO2 Linear Programming

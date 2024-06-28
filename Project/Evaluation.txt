@@ -1,0 +1,9 @@
+Question: draw NfA 
+Tested CLOs:
+- NFA
+
+Question: solve first part with CLO1 and Then use CLO2
+Tested CLOs:
+- 1
+- 2
+
